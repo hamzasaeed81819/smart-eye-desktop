@@ -20,6 +20,10 @@ This project uses the **YOLOv3 deep learning model** to perform real-time object
 - `coco.names` – COCO dataset class names  
 - `object_detection.py` – Main Python script (your code)
 
+You can download the YOLOv3 files from:
+
+- YOLOv3 config: https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg  
+- YOLOv3 weights: https://pjreddie.com/media/files/yolov3.weights 
 
 ## 🛠️ Requirements
 
